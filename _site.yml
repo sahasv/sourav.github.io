@@ -1,0 +1,42 @@
+name: "Sourav Saha"
+navbar:
+  title: "Sourav Saha, Ph.D."
+  
+  left:
+    - icon: fa-home
+      href: index.html
+    - text: "Research"
+      href: Research.html
+    - text: "Teaching"
+      href: Teaching.html 
+    - text: "Publications"
+      href: Publications.html
+    - text: "Programming"
+      href: Programming.html
+    - text: "My blog"
+      href: MyBlog.html    
+      
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:<sahasv@mail.uc.edu>
+    - text: "scholar"
+      icon: fab fa-google
+      href: https://scholar.google.com/citations?user=44zRlH0AAAAJ&hl=en&authuser=1
+    - text: "CV"
+      href: files/sourav-saha_CV_2021.pdf
+    - text: "ORCID"
+      href: https://orcid.org/0000-0001-7106-2936
+    - icon: fab fa-researchgate
+      href: https://www.researchgate.net/profile/Sourav-Saha
+    - icon: fab fa-github
+      href: https://github.com/sahasv 
+    - icon: fab fa-twitter
+      href: https://twitter.com/Sourav_Glacier
+    - icon: fab fa-linkedin
+      href: https://www.linkedin.com/in/saha-sourav
+ 
+output:
+  html_document:
+    theme: lumen
+    
+output_dir: "."

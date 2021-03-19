@@ -1,0 +1,24 @@
+---
+title: "<span style='font-family: times, Open Sans'>UCLA Luminescence Laboratory</style>"
+output: 
+  html_document:
+    css: CSSBackgrounds.css
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+I am working on it.
+
+
+
+
+<br>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Feel free to get in touch*
+</p> 
+<p style="font-family: times, Open Sans; font-size:14pt">
+[**Contact me**](Contactme.html)
+</p>

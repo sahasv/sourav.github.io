@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>PubAbstracts.utf8</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/lumen.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+<link rel="stylesheet" href="CSSBackgrounds9.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Sourav Saha, Ph.D.</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">
+    <span class="fas fa-home"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="Research.html">Research</a>
+</li>
+<li>
+  <a href="Teaching.html">Teaching</a>
+</li>
+<li>
+  <a href="Publications.html">Publications</a>
+</li>
+<li>
+  <a href="Programming.html">Programming</a>
+</li>
+<li>
+  <a href="MyBlog.html">My blog</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="mailto:&lt;sahasv@mail.uc.edu&gt;">
+    <span class="fas fa-envelope fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://scholar.google.com/citations?user=44zRlH0AAAAJ&amp;hl=en&amp;authuser=1">
+    <span class="fab fa-google"></span>
+     
+    scholar
+  </a>
+</li>
+<li>
+  <a href="files/sourav-saha_CV_2021.pdf">CV</a>
+</li>
+<li>
+  <a href="https://orcid.org/0000-0001-7106-2936">ORCID</a>
+</li>
+<li>
+  <a href="https://www.researchgate.net/profile/Sourav-Saha">
+    <span class="fab fa-researchgate"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://github.com/sahasv">
+    <span class="fab fa-github"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://twitter.com/Sourav_Glacier">
+    <span class="fab fa-twitter"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://www.linkedin.com/in/saha-sourav">
+    <span class="fab fa-linkedin"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore"><span style='font-family: times, Open Sans'>Publications
+</style></h1>
+
+</div>
+
+
+<style>
+body {
+text-align: justify}
+</style>
+<p><br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br></p>
+<p style="font-family: times, Open Sans; font-size:14pt">
+<strong>Published Abstracts</strong>
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+<strong>Saha, S.</strong>, Moon, S., Brown, N.D., and Rhodes, E. 2020. Examining single-grain luminescence dating uncertainties between upstream fans and downstream sediment deposits in the seismically active southern California. <em>2020 AGU Fall meeting, Online. EP029-0008.</em>
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+<strong>Saha, S.</strong>, Moon, S., Rockwell, T.K., Scharer, K.M., and Brown, N.D. 2020. Reconstructing long-term subsidence and paleoseismic history of the ancient Lake Cahuilla along the southern San Andreas fault in Coachella, California. <em>Poster Presentation at 2020 SCEC Annual Meeting, poster #022.</em>
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+Burns, J., McGill, S., Rhodes, E.J., Dolan J.F., Brown, N.D., and <strong>Saha, S.</strong> 2020. Dating of Offset Geomorphic Features Along the Garlock Fault, Mojave Desert, California: Testing a Proposed Earthquake Supercycle Model. Geological Society of America Cordilleran Section. <em>Abstract #347542 (meeting canceled due to COVID19).</em>
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+<strong>Saha, S.</strong>, Moon, S., Brown, N.D., and Rhodes, E. 2019. Inferring sediment dynamics using single-grain feldspar post-IR IRSL luminescence dating in southern California, North America. <em>2019 AGU Fall meeting, San Francisco. GC13A-06.</em>
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+Orr, E.N., Owen, L.A., <strong>Saha, S.</strong>, Hammer, S., and Caffee, M.W. 2019. Deciphering the Controls of the Rate and Spatial Distribution of Rockwall Slope Erosion in the NW Himalaya. <em>2019 AGU Fall meeting, San Francisco. EP22A-03.</em>
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+Higa, J., Moon, S., Brown, N., Argueta, M.O., <strong>Saha, S.</strong>, Stock, J.M., Sabbeth, L., Bennett, S.E.K., and Martin, A. 2019. Combining Luminescence Dating and High-Resolution Imaging to Analyze an Evolving Microcontinent, Isla Ángel de la Guarda, Gulf of California, México. <em>2019 AGU Fall meeting, San Francisco. T41H-0367.</em>
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+Dortch, J., <strong>Saha, S.</strong>, Tomkins, M.D., Murari, M.K., Schoenbohm, L.M., and Curl, D. 2019. Probability- based interpretation of terrestrial cosmogenic radionuclide ages: P-CAAT, a tool for the ages. <em>2019 AGU Fall meeting, San Francisco. EP31D-2325.</em>
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+Owen, L.A., <strong>Saha, S.</strong>, Dortch, J. 2019. Timing and extent of Quaternary glaciation in the Himalayan-Tibetan orogen. <em>2019 AGU Fall meeting, San Francisco. GC41B-03.</em>
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+<strong>Saha, S.</strong>, Moon, S., Brown, N.D., Rhodes, E.J., McGill1, S.F., Castillo, B., Scharer, K.M., McPhillips, D., and Yule, J.D. 2019. Influence of sediment dynamics and alluvial fan formation on paleoseismic studies in southern California, North America. <em>SCEC annual meeting, poster# 129.</em>
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+Castillo, B., McGill1, S.F., Scharer, K.M., Yule, J.D., McPhillips, D., McNeil, J., <strong>Saha, S.</strong>, Brown, N.D., and Moon, S. (2019). Ages of Prehistoric Earthquakes on the Banning Strand of the San Andreas Fault, near North Palm Springs, California. <em>SCEC annual meeting, poster# 134.</em>
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+Peña, K., McGill1, S.F., Rhodes, E.J., Dolan, J., Brown, N.D., Castillo, B., Hatem., A., <strong>Saha, S.</strong>, Zinke, R. (2019). Paleoseismic Results from the Christmas Canyon West Site, Central Garlock Fault, Searles Valley, California. <em>SCEC annual meeting, poster# 107.</em>
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+<strong>Saha, S.</strong>, Moon, S., Brown, N.D., and Rhodes, E.J. 2019. Influence of sediment dynamics and alluvial fan formation on paleoseismic studies in southern California, North America. <em>13th New World Luminescence Dating Workshop.</em>
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+<strong>Saha, S.</strong>, and Owen, L.A. 2019. <span class="math inline">\(^{10}\)</span>Be dating of Holocene moraines in the Himalayan-Tibetan orogen: noise versus signal. <em>INQUA 2019 congress in Dublin, oral# 297.</em>
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+<strong>Saha, S.</strong>, Moon, S., and Brown, N.D. 2019. Influence of sediment dynamics on paleoseismic studies in Southern California, North America. <em>SoCal Geomorphology Symposium.</em>
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+<strong>Saha, S.</strong>, Owen, L.A., Orr, E.N., Ward, D.J., and Caffee, M.W. 2018. Systematically inherited cosmogenic <span class="math inline">\(^{10}\)</span>Be in late Holocene age moraine boulders in the Bhagirathi valley, Garhwal. <em>Geological Society of America Abstracts with Programs. Vol. 50, No. 6. doi: 10.1130/abs/2018AM-320045</em>
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+Orr, E.N., Owen, L.A., <strong>Saha, S.</strong>, and Caffee, M.W. 2018. Timing and nature of alluvial/ debris flow fan formation in the NW Himalaya of northern India. <em>Geological Society of America Abstracts with Programs. Vol. 50, No. 6. doi: 10.1130/abs/2018AM-315806</em>
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+<strong>Saha, S.</strong>, Owen, L.A., Orr, E., Caffee, M.W., Dortch, J., and Sharma, M.C. 2017. Timing and nature of Holocene glacier advances across the Himalayan-Tibetan orogen. <em>2017 AGU Fall meeting, New Orleans. C23D.</em>
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+Orr, E., Owen, L.A., and <strong>Saha, S.</strong> 2017. Determining the rates and drivers of headwall erosion within glaciated catchments in the NW Himalaya. <em>2017 AGU Fall meeting, New Orleans. EP33F.</em>
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+<strong>Saha, S.</strong>, Owen, L.A., Orr, E., and Dietsch, C. 2017. High-frequency Holocene glacial chronostratigraphies in the Himalayan-Tibetan orogen offer insight into past shifts of Earth’s thermal equator and coeval changes in the sources of moisture. <em>9th International Conference on Geomorphology (9th ICG), New Delhi, India. Abstract # 18, p. 167.</em>
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+<strong>Saha, S.</strong>, Owen, L.A., Orr, E., and Dietsch, C. 2016. Reconstructing high-resolution Holocene glacial chronostratigraphies in the Himalaya. <em>GSA Abstracts No. 282114, 48 (7), 304-2.</em>
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+<strong>Saha, S.</strong>, Owen, L.A., Orr, E., and Dietsch, C. 2016. Reconstructing late Holocene glacial advances in the NW Himalaya, northern India by resolving the problem of too-old (inherited) surface exposure ages on young moraines. <em>GSA Abstracts No. 282261, 48 (7), 328-3.</em>
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+<strong>Saha, S.</strong>, Owen, L.A., Orr, E., and Dietsch, C. 2016. An attempt to reconstruct high-resolution Holocene glacial fluctuations across the Himalayan-Karakoram-Tibetan orogeny. <em>6th Third Pole Environment Workshop, 32.</em>
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+Orr, E., Owen, L.A., and <strong>Saha, S.</strong> 2016. Interaction between climate and erosion in high altitude mountain environments: The effect of precipitation gradients upon headwall erosion in Northern India, NW Himalaya. <em>6th Third Pole Environment Workshop, 34.</em>
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+<strong>Saha, S.</strong>, Owen, L.A., and Dietsch, C. 2015. Chronostratigraphy of the Himalayan glacial fluctuations at the millennial timescale during the Holocene. <em>GSA Abstracts No. 268563, 47 (7), 793.</em>
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+<strong>Saha, S.</strong>, Owen, L.A., and Dietsch, C. 2015. Chronostratigraphy of the Himalayan glacial fluctuations at the millennial timescale during the Holocene. <em>GSA Abstracts No. 252860, 47 (3), 115.</em>
+</p>
+<br>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+<em>Feel free to get in touch</em>
+</p>
+<p style="font-family: times, Open Sans; font-size:14pt">
+<a href="Contactme.html"><strong>Contact me</strong></a>
+</p>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

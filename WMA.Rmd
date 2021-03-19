@@ -1,0 +1,15 @@
+---
+title: "<span style='font-family: times, Open Sans'>Publications</style>"
+output: 
+  html_document:
+    css: CSSBackgrounds.css
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+Will be made available once accepted. 
+</p>

@@ -1,0 +1,40 @@
+---
+title: "<span style='font-family: times, Open Sans'>Project</style>"
+output: 
+  html_document:
+    css: CSSBackgrounds.css
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+<p style="font-family: times, Open Sans; font-size:14pt">
+**Influence of sediment dynamics and alluvial fan formation on paleoseismic studies in southern California, North America–status: ongoing (2020–2021)** 
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+In this study, we collected 16 luminescence samples from the same four sets of alluvial fans at the Mission Creek that have already been independently dated using $^{10}$Be (boulders/depth profiles), optically stimulated luminescence, and p-IR IRSL. Preliminary findings suggest possible grain reworking and mixing near the fan surfaces (~1-m) in this semi-arid environment. We also found a reasonably good correspondence between the upstream and downstream depositional events at the Mission Creek catchment based on overlapped p-IR IRSL subpopulation ages in multiple samples.
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Collaborators*: [Seulgi Moon (PI)](https://faculty.epss.ucla.edu/~sgmoon/), UCLA; [Nathan D. Brown (Collaborator)](https://nathandbrown.wixsite.com/home), UTA; [Edward J. Rhodes (Collaborator)](https://www.sheffield.ac.uk/geography/people/academic-staff/edward-rhodes), University of Sheffield.
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Funding Agency*: [USGS: National Earthquake Hazards Reduction Program (NEHRP)](https://www.nehrp.gov/).
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Publications*: [Saha et al. in prep](WMA.html).
+</p>
+
+<br>
+Insert images here ..
+
+
+
+<br>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Feel free to get in touch*
+</p> 
+<p style="font-family: times, Open Sans; font-size:14pt">
+[**Contact me**](Contactme.html)
+</p>

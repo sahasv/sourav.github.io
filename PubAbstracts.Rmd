@@ -1,0 +1,117 @@
+---
+title: "<span style='font-family: times, Open Sans'>Publications</style>"
+output: 
+  html_document:
+    css: CSSBackgrounds9.css
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p style="font-family: times, Open Sans; font-size:14pt">
+**Published Abstracts**
+</p>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+**Saha, S.**, Moon, S., Brown, N.D., and Rhodes, E. 2020. Examining single-grain luminescence dating uncertainties between upstream fans and downstream sediment deposits in the seismically active southern California. *2020 AGU Fall meeting, Online. EP029-0008.*
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+**Saha, S.**, Moon, S., Rockwell, T.K., Scharer, K.M., and Brown, N.D. 2020. Reconstructing long-term subsidence and paleoseismic history of the ancient Lake Cahuilla along the southern San Andreas fault in Coachella, California. *Poster Presentation at 2020 SCEC Annual Meeting, poster #022.*
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+Burns, J., McGill, S., Rhodes, E.J., Dolan J.F., Brown, N.D., and **Saha, S.** 2020. Dating of Offset Geomorphic Features Along the Garlock Fault, Mojave Desert, California: Testing a Proposed Earthquake Supercycle Model. Geological Society of America Cordilleran Section. *Abstract #347542 (meeting canceled due to COVID19).*
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+**Saha, S.**, Moon, S., Brown, N.D., and Rhodes, E. 2019. Inferring sediment dynamics using single-grain feldspar post-IR IRSL luminescence dating in southern California, North America. *2019 AGU Fall meeting, San Francisco. GC13A-06.*
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+Orr, E.N., Owen, L.A., **Saha, S.**, Hammer, S., and Caffee, M.W. 2019. Deciphering the Controls of the Rate and Spatial Distribution of Rockwall Slope Erosion in the NW Himalaya. *2019 AGU Fall meeting, San Francisco. EP22A-03.*
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+Higa, J., Moon, S., Brown, N., Argueta, M.O., **Saha, S.**, Stock, J.M., Sabbeth, L., Bennett, S.E.K., and Martin, A. 2019. Combining Luminescence Dating and High-Resolution Imaging to Analyze an Evolving Microcontinent, Isla Ángel de la Guarda, Gulf of California, México. *2019 AGU Fall meeting, San Francisco. T41H-0367.*
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+Dortch, J., **Saha, S.**, Tomkins, M.D., Murari, M.K., Schoenbohm, L.M., and Curl, D. 2019. Probability- based interpretation of terrestrial cosmogenic radionuclide ages: P-CAAT, a tool for the ages. *2019 AGU Fall meeting, San Francisco. EP31D-2325.*
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+Owen, L.A., **Saha, S.**, Dortch, J. 2019. Timing and extent of Quaternary glaciation in the Himalayan-Tibetan orogen. *2019 AGU Fall meeting, San Francisco. GC41B-03.*
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+**Saha, S.**, Moon, S., Brown, N.D., Rhodes, E.J., McGill1, S.F., Castillo, B., Scharer, K.M., McPhillips, D., and Yule, J.D. 2019. Influence of sediment dynamics and alluvial fan formation on paleoseismic studies in southern California, North America. *SCEC annual meeting, poster# 129.*
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+Castillo, B., McGill1, S.F., Scharer, K.M., Yule, J.D., McPhillips, D., McNeil, J., **Saha, S.**, Brown, N.D., and Moon, S. (2019). Ages of Prehistoric Earthquakes on the Banning Strand of the San Andreas Fault, near North Palm Springs, California. *SCEC annual meeting, poster# 134.*
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+Peña, K., McGill1, S.F., Rhodes, E.J., Dolan, J., Brown, N.D., Castillo, B., Hatem., A., **Saha, S.**, Zinke, R. (2019). Paleoseismic Results from the Christmas Canyon West Site, Central Garlock Fault, Searles Valley, California. *SCEC annual meeting, poster# 107.*
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+**Saha, S.**, Moon, S., Brown, N.D., and Rhodes, E.J. 2019. Influence of sediment dynamics and alluvial fan formation on paleoseismic studies in southern California, North America. *13th New World Luminescence Dating Workshop.*
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+**Saha, S.**, and Owen, L.A. 2019. $^{10}$Be dating of Holocene moraines in the Himalayan-Tibetan orogen: noise versus signal. *INQUA 2019 congress in Dublin, oral# 297.*
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+**Saha, S.**, Moon, S., and Brown, N.D. 2019. Influence of sediment dynamics on paleoseismic studies in Southern California, North America. *SoCal Geomorphology Symposium.*
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+**Saha, S.**, Owen, L.A., Orr, E.N., Ward, D.J., and Caffee, M.W. 2018. Systematically inherited cosmogenic $^{10}$Be in late Holocene age moraine boulders in the Bhagirathi valley, Garhwal. *Geological Society of America Abstracts with Programs. Vol. 50, No. 6. doi: 10.1130/abs/2018AM-320045*
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+Orr, E.N., Owen, L.A., **Saha, S.**, and Caffee, M.W. 2018. Timing and nature of alluvial/ debris flow fan formation in the NW Himalaya of northern India. *Geological Society of America Abstracts with Programs. Vol. 50, No. 6. doi: 10.1130/abs/2018AM-315806*
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+**Saha, S.**, Owen, L.A., Orr, E., Caffee, M.W., Dortch, J., and Sharma, M.C. 2017. Timing and nature of Holocene glacier advances across the Himalayan-Tibetan orogen. *2017 AGU Fall meeting, New Orleans. C23D.*
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+Orr, E., Owen, L.A., and **Saha, S.** 2017. Determining the rates and drivers of headwall erosion within glaciated catchments in the NW Himalaya. *2017 AGU Fall meeting, New Orleans. EP33F.*
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+**Saha, S.**, Owen, L.A., Orr, E., and Dietsch, C. 2017. High-frequency Holocene glacial chronostratigraphies in the Himalayan-Tibetan orogen offer insight into past shifts of Earth’s thermal equator and coeval changes in the sources of moisture. *9th International Conference on Geomorphology (9th ICG), New Delhi, India. Abstract # 18, p. 167.*
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+**Saha, S.**, Owen, L.A., Orr, E., and Dietsch, C. 2016. Reconstructing high-resolution Holocene glacial chronostratigraphies in the Himalaya. *GSA Abstracts No. 282114, 48 (7), 304-2.*
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+**Saha, S.**, Owen, L.A., Orr, E., and Dietsch, C. 2016. Reconstructing late Holocene glacial advances in the NW Himalaya, northern India by resolving the problem of too-old (inherited) surface exposure ages on young moraines. *GSA Abstracts No. 282261, 48 (7), 328-3.*
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+**Saha, S.**, Owen, L.A., Orr, E., and Dietsch, C. 2016. An attempt to reconstruct high-resolution Holocene glacial fluctuations across the Himalayan-Karakoram-Tibetan orogeny. *6th Third Pole Environment Workshop, 32.*
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+Orr, E., Owen, L.A., and **Saha, S.** 2016. Interaction between climate and erosion in high altitude mountain environments: The effect of precipitation gradients upon headwall erosion in Northern India, NW Himalaya. *6th Third Pole Environment Workshop, 34.*
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+**Saha, S.**, Owen, L.A., and Dietsch, C. 2015. Chronostratigraphy of the Himalayan glacial fluctuations at the millennial timescale during the Holocene. *GSA Abstracts No. 268563, 47 (7), 793.*
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+**Saha, S.**, Owen, L.A., and Dietsch, C. 2015. Chronostratigraphy of the Himalayan glacial fluctuations at the millennial timescale during the Holocene. *GSA Abstracts No. 252860, 47 (3), 115.*
+</p>
+
+
+
+
+
+
+<br>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Feel free to get in touch*
+</p> 
+<p style="font-family: times, Open Sans; font-size:14pt">
+[**Contact me**](Contactme.html)
+</p>

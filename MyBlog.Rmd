@@ -1,0 +1,105 @@
+---
+title: "<span style='font-family: times, Open Sans'>Geologist . Avid Outdoor Enthusiast . Paddler . Biker</style>"
+output: 
+  html_document:
+    css: CSSBackgrounds8.css
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+I am an avid outdoor enthusiast. I get into geology because I am always excited about going outside in nature, exploring forests and mountains on my own, and camping in challenging places. Every time I go out in nature, I am fascinated by the surrounding geology and have tons of questions that I continuously ponder in my mind. These questions always led to hypothesis formation, and that's how I start most of my research projects (or at least start dreaming about them). Some questions I know I can address. For others, I rely on literature and often my collaborators/colleagues. That is why I am also a science geek. Simply speaking, thinking about my surrounding environment's geology during hiking or biking, or kayaking is my WONDERLAND. 
+</p>
+<br>
+<div style= "float:left;position: relative; right: 30px; top: -7px;">
+```{r echo=FALSE, out.width="350px", fig.align='left'}
+knitr::include_graphics("https://i.imgur.com/zg5Av51h.jpg") 
+```
+</div>
+<div style= "float:left;position: relative; right: 30px; top: -7px;">
+```{r echo=FALSE, out.width="350px", fig.align='left'}
+knitr::include_graphics("https://i.imgur.com/u7fV8S5h.jpg") 
+```
+</div>
+<div style= "float:left;position: relative; right: 30px; top: -7px;">
+```{r echo=FALSE, out.width="350px", fig.align='left'}
+knitr::include_graphics("https://i.imgur.com/ICmEvOSh.jpg") 
+```
+</div>
+<div style= "float:left;position: relative; right: 30px; top: -7px;">
+```{r echo=FALSE, out.width="350px", fig.align='left'}
+knitr::include_graphics("https://i.imgur.com/tZyvTcJh.jpg") 
+```
+</div>
+
+<div style= "float:left;position: relative; right: 30px; top: -7px;">
+```{r echo=FALSE, out.width="350px", fig.align='left'}
+knitr::include_graphics("https://i.imgur.com/02Ch8zjh.jpg") 
+```
+</div>
+<div style= "float:left;position: relative; right: 30px; top: -7px;">
+```{r echo=FALSE, out.width="350px", fig.align='left'}
+knitr::include_graphics("https://i.imgur.com/SNMWoJBh.jpg") 
+```
+</div>
+<p style="font-family: times, Open Sans; font-size:14pt">
+**Hiking in the wild**
+</p>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+I have hiked in countless places in the Himalaya and North America. I also camped near glaciers (~4500 m above sea level in the Himalaya), remote places in the Sierras and Rockies, and the dry and hot desert lands of the Mojave desert and the Death Valley, California. Here I am showing some of my cherished and moat-challenging hiking trips.  
+</p>
+
+<p style="font-family: times, Open Sans; font-size:14pt">
+**Kayaking**
+</p>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+For recreation, I mostly like to kayak with my wife. The calmness of the ocean or lake water makes us feel relaxed and close to nature. We strive to get the paddling in synchronicity, and once we have the rhythm going, we like to paddle for hours. We always carry our inflatable kayak with us in our car and randomly stops near lakes/oceans during our road trips. Intense Kayaking is also an excellent exercise for us.
+</p>
+
+<p style="font-family: times, Open Sans; font-size:14pt">
+**Biking**
+</p>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+Biking is another fun activity that I like very much. I often prefer my road bike to go to campus over my car. Since I build my road bike, it is incredibly close to my heart. Last time I biked for almost 86 miles in Los Angeles, California, along the Pacific Coast Highway before COVID-19 lockdown. My goal is to bike over 100 miles a few times this year. 
+</p>
+
+<p style="font-family: times, Open Sans; font-size:20pt">
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+</p>
+
+<p style="font-family: times, Open Sans; font-size:20pt">
+**News/Updates**
+</p>
+<br>
+<br>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+**2/18/2021**
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Mars 2020 rover Perseverance has landed. I am so excited and proud to be associated with EPSS-UCLA. Now, are we alone?*
+</p>
+<br>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+**2/20/2021**
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*I am building my first website using R Markdown and github. I will have my custom domain soon.*
+</p>
+
+<br>
+<br>
+<br>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Feel free to get in touch*
+</p> 
+<p style="font-family: times, Open Sans; font-size:14pt">
+[**Contact me**](Contactme.html)
+</p>

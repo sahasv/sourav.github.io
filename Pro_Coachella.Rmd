@@ -1,0 +1,41 @@
+---
+title: "<span style='font-family: times, Open Sans'>Project</style>"
+output: 
+  html_document:
+    css: CSSBackgrounds.css
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+<p style="font-family: times, Open Sans; font-size:14pt">
+**Constraining a long history of paleolake and paleoseismicity at Coachella, CA, using deep borehole samples–status: ongoing (2020–2022)** 
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+This study provides context for the long-term relationship (up to ~7 ka or more) between the lake loading of the ancient Lake Cahuilla and paleoearthquakes on the southernmost ~100 km of the San Andreas Fault. We drilled and extracted a ~33.5-m long borehole from the NE shorelines of the ancient lake Cahuilla near Coachella, CA. We are currently dating the lake and subaerial stratigraphic units from the borehole using single-grain IRSL and $^{14}$C. We recently submitted another proposal to SCEC to extract another borehole from the deep lakebed.
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Collaborators*: [Seulgi Moon (PI)](https://faculty.epss.ucla.edu/~sgmoon/), UCLA; [Thomas K. Rockwell (Co-I)](https://geology.sdsu.edu/faculty/trockwell/), SDSU; [Katherine (Kate) Scharer (Co-I)](https://www.usgs.gov/staff-profiles/katherine-kate-scharer?qt-staff_profile_science_products=0#qt-staff_profile_science_products), USGS, Pasadena; [Nathan D. Brown (Collaborator)](https://nathandbrown.wixsite.com/home), UTA.
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Funding Agency*: [Southern California Earthquake Center (SCEC)](https://www.scec.org/meetings/2020/am/poster/022).
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Publications*: [Saha et al. in prep](WMA.html).
+</p>
+
+<br>
+Insert images here ..
+
+
+
+
+<br>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Feel free to get in touch*
+</p> 
+<p style="font-family: times, Open Sans; font-size:14pt">
+[**Contact me**](Contactme.html)
+</p>

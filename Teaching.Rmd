@@ -1,0 +1,146 @@
+---
+title: "<span style='font-family: times, Open Sans'>Teaching</style>"
+output: 
+  html_document:
+    css: CSSBackgrounds3.css
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+<br>
+
+<p style="font-family: times, Open Sans; font-size:12.2pt">
+*I am also highly passionate about teaching geology, especially in the field. I am committed to implementing (pedagogically sound) active learning strategies in the classrooms that intentionally and actively foster equality and inclusiveness. My expertise as a field geologist and skills in operating inexpensive but innovative technologies, both in the field and inside the classroom, help me become a dynamic teacher. Through my teaching and research, I strive to ensure that my students perform at their fullest potential and flourish in the competitive professional world, irrespective of their backgrounds and affiliations. A statement on my teaching philosophy can be found [here](files/Saha_Teaching_Philosophy_2021.pdf).* 
+</p>
+<br>
+<br>
+<br>
+<br>
+
+<p style="font-family: times, Open Sans; font-size:14pt">
+**Courses Developed & Taught at Northern Kentucky University (2018–2020)**
+</p>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+[*GLY 110: The Face of the Earth with Lab*](GLY110.html) (online accelerated course)
+</p>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+[*GLY 120: This Dangerous Earth*](GLY120.html)
+</p>
+
+<br>
+
+<p style="font-family: times, Open Sans; font-size:14pt">
+**Courses Instructed at the University of Cincinnati (2016–2017)**
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*GEOL 1002: Surface Processes*
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*GEOL 1009: Natural Hazards*
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*EVST/GEOL 2025: Hydrology and Biogeochemistry*
+</p>
+<br>
+
+<p style="font-family: times, Open Sans; font-size:14pt">
+**Courses Instructed at the Jawaharlal Nehru University (2011–2012)**
+</p>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Geomorphological field techniques*
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Cartography, remote sensing, and GIS*
+</p>
+<br>
+
+<p style="font-family: times, Open Sans; font-size:14pt">
+**Mentorship Experience**
+</p>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Marina Argueta* (PhD., Geology), UCLA graduate student (2018–2020).
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Christina Kitamikado* (BS., Geophysics), UCLA undergraduate student (2019–2020).
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Justin Higa* (PhD., Geology), UCLA graduate student (2018–2019).
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Norma Contreras* (BS., Geology), UCLA undergraduate student (2018–2019).
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Julianna Cativo* (BS., Geophysics), UCLA undergraduate student (2019).
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Kat Rivers* (BS., Geology), UC undergraduate student (2016).
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Mitch Kleimeyer* (BS., Geology), UC undergraduate student (2016).
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Zach Altman* (BS., Geology), UC undergraduate student (2016).
+</p>
+<br>
+
+<p style="font-family: times, Open Sans; font-size:14pt">
+**Student Field Trips**
+</p>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+[**1. The Northwestern Himalaya**](NW_Him.html)
+</p>
+
+[![](https://i.imgur.com/LrI4YtWh.jpg){width=100%}](NW_Him.html)
+
+<br>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+[**2. Southern California & Nevada**](SoCal.html)
+</p>
+
+[![](https://i.imgur.com/8siZ3dKh.jpg){width=100%}](SoCal.html)
+
+<br>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+[**3. The Midwest & the New England Region**](Cinci.html)
+</p>
+
+[![](https://i.imgur.com/0x5pZ5Eh.jpg){width=100%}](Cinci.html) 
+
+<br>
+
+<p style="font-family: times, Open Sans; font-size:14pt">
+**Diversity & Inclusion**
+</p>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+My efforts in fostering diversity and inclusion can be summarized based on my experience in engaging students in classrooms, my teaching and research plans related to equity and inclusivity, and my own experience and values related to diversity. I am committed to cultivate an equitable academic climate where my students feel comfortable and a sense of belongingness. I am also a first-generation minority college student, which gives me confidence and helps shape my views as an instructor. With my experience, background, involvements, and aspirations, I plan to make *inclusive excellence* an essential part of my curriculum. A brief diversity and inclusion statement is provided [here](files/Saha_Diversity_Statement_2021.pdf).
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+[**International Association for Geoscience Diversity**]( https://theiagd.org/) (IAGD): This is a non-profit organization dedicated to creating access and inclusion for persons with disabilities in the Geosciences. Please consider [supporting our efforts]( https://theiagd.org/foundation/) to make geoscience fieldwork accessible to all geologists. * *LET'S GEOLOGIZING TOGETHER!** 
+</p>
+
+<br>
+<p style="font-family: times, Open Sans; font-size:14pt">
+**Preparing Future Faculty Program**
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+I completed a certificate course on *Preparing Future Faculty* (PFF) at the University of Cincinnati. The PFF program intends to hone teaching skills, improve pedagogy, and incorporate innovative teaching methods in the classroom. Under this program, I taught traditional and non-traditional students, learned different active learning strategies (e.g., blended learning, flipped classrooms), and attended >10 workshops and conferences on pedagogy and science teaching on and off the campus. I also visited local Liberal Arts Colleges in Cincinnati to understand their teaching focus and styles, and I observed classes of other faculties both at the University of Cincinnati and Northern Kentucky University. I occasionally attend PFF reading groups and participate in discussions. Details about the certificate program can be found [here](https://grad.uc.edu/development/pff.html).
+</p>
+
+<br>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Feel free to get in touch*
+</p> 
+<p style="font-family: times, Open Sans; font-size:14pt">
+[**Contact me**](Contactme.html)
+</p>

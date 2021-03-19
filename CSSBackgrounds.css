@@ -1,0 +1,10 @@
+body {
+  background-image: url('https://i.imgur.com/nXfvB1U.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+div {
+  background-color: rgba(255, 255, 255, 0.80)   /* 80% opaque white */;
+  padding: 0.25em;
+}

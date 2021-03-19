@@ -1,0 +1,39 @@
+---
+title: "<span style='font-family: times, Open Sans'>Project</style>"
+output: 
+  html_document:
+    css: CSSBackgrounds.css
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+<p style="font-family: times, Open Sans; font-size:14pt">
+**Quaternary glaciations of the Himalayan-Tibetan orogen–status: ongoing (2019–2021)** 
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+In this study, we are reviewing the status of Quaternary glaciations in the high-altitude mountains of the Himalaya and Tibet. We are reanalyzing/recalculating all the published cosmogenic (e.g., $^{10}$Be, $^{26}$Al), $^{14}$C, and luminescence ages of the glaciated landforms used to reconstruct past glaciations and paleoclimatic changes. Using advanced statistical tools (e.g., PCA, [P-CAAT](http://kgs.uky.edu/anorthite/PCAAT/)), reconstructed ELAs, and paleoclimatic models, we are updating the status quo (i.e., the timing and magnitude) of Quaternary glaciations in these Central Asian mountains. 
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Collaborators*: [Lewis A. Owen](https://meas.sciences.ncsu.edu/people/laowen2/), NCSU; [Jason Dortch](https://www.researchgate.net/profile/Jason_Dortch), KGS.
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Publications*: [Owen et al. in prep.](WMA.html).
+</p>
+
+<br>
+Insert images here ..
+
+
+
+
+
+<br>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Feel free to get in touch*
+</p> 
+<p style="font-family: times, Open Sans; font-size:14pt">
+[**Contact me**](Contactme.html)
+</p>

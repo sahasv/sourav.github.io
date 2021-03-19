@@ -1,0 +1,132 @@
+---
+title: "<span style='font-family: times, Open Sans'>Earth Surface Processes and Landscape Evolution of Tectonically Active Environments</style>"
+output: 
+  html_document:
+    css: CSSBackgrounds2.css
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+<center>
+<p style="font-family: times, Open Sans; font-size:12.2pt">
+*My future and proposed research plans include continual application and improvement of the cosmogenic nuclide and luminescence geochronological techniques. My long-term goal is to establish a vigorous research plan and collaborations, primarily focusing on tectonically active and environmentally sensitive regions, such as the North American southwest, the Himalaya, the Arctic, and the Southern Alps.* 
+</p>
+<br>
+
+<p style="font-family: times, Open Sans; font-size:20pt">
+**Projects** 
+</p>
+<br>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+[**Constraining a long history of paleolake and paleoseismicity at Coachella, CA, using deep borehole samples**](Pro_Coachella.html)
+</p>
+[![](https://i.imgur.com/NwkhcXRh.jpg){width=100%}](Pro_Coachella.html) 
+
+<br>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+[**Influence of sediment dynamics and alluvial fan formation on paleoseismic studies in southern California, North America**](Pro_Mission.html)
+</p>
+[![](https://i.imgur.com/l1EwS0Nh.jpg){width=100%}](Pro_Mission.html) 
+
+<br>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+[**Earthquake Recurrence on the Banning Strand of the San Andreas fault: Collaborative Research with California State University, San Bernardino, and University of California, Los Angeles**](Pro_Banning.html)
+</p>
+[![](https://i.imgur.com/Qu0vqhoh.jpg){width=100%}](Pro_Banning.html) 
+
+<br>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+[**Quaternary glaciations of the Himalayan-Tibetan orogen**](Pro_Quaternary.html)
+</p>
+[![](https://i.imgur.com/Juo0kSth.jpg){width=100%}](Pro_Quaternary.html)
+
+<br>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+[**High-frequency Holocene glacier fluctuations in the Himalayan-Tibetan orogen**](Pro_Holocene.html)
+</p>
+[![](https://i.imgur.com/WNeBK56h.jpg){width=100%}](Pro_Holocene.html)
+
+<br>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+[**Geomorphology, sedimentology, and minimum exposure ages of streamlined subglacial landforms in the NW Himalaya, India**](Pro_Streamlined.html)
+</p>
+[![](https://i.imgur.com/92vK0nsh.jpg){width=100%}](Pro_Streamlined.html)
+
+<br>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+[**Rockwall slope erosion of mountain catchment headwaters and periglacial landscape change in the NW Himalaya**](Pro_Lizzie.html)
+</p>
+[![](https://i.imgur.com/wjISkuVh.jpg){width=100%}](Pro_Lizzie.html) 
+
+<br>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+[**Occurrence of large magnitude earthquakes and segmentation of the Carson Range fault system, Carson City, NV, USA**](Pro_IndianHill.html)
+</p>
+[![](https://i.imgur.com/dqF9tdch.jpg){width=100%}](Pro_IndianHill.html) 
+
+<br>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+[**Paleoseismicity and active tectonics of the 2016 Kaikōura earthquake, Clarence Valley, New Zealand**](Pro_NewZealand.html)
+</p>
+[![](https://i.imgur.com/53UCOYZh.jpg){width=100%}](Pro_NewZealand.html)
+
+<br>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+[**Combining luminescence dating and high-resolution imaging to analyze an evolving microcontinent, Isla Ángel de la Guarda, Gulf of California, México**](Pro_IAG.html)
+</p>
+[![](https://i.imgur.com/IdfQaYRh.jpg){width=100%}](Pro_IAG.html)
+
+<br>
+
+<center>
+
+<br>
+<p style="font-family: times, Open Sans; font-size:20pt">
+**Associated Geochronology Laboratories**
+</p>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+[**UCLA Luminescence Laboratory, University of California, Los Angeles**](UCLA_LumLab.html)
+</p>
+[![](https://i.imgur.com/17iYAzZh.jpg){width=100%}](UCLA_LumLab.html) 
+
+<br>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+[**Quaternary Geochronology Laboratories, NC State University, Raleigh**](https://lewisaowen.wixsite.com/main)
+</p> 
+[![](https://i.imgur.com/Dl62MhDh.jpg){width=100%}](https://lewisaowen.wixsite.com/main) 
+
+
+
+<br>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+[**EPSS Structure-from-Motion Photogrammetry**](Sfm.html)
+</p>
+
+<div align="center">
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/tnqrzlzH6MI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<br>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Feel free to get in touch*
+</p> 
+<p style="font-family: times, Open Sans; font-size:14pt">
+[**Contact me**](Contactme.html)
+</p>
+

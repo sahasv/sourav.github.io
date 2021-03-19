@@ -1,0 +1,42 @@
+---
+title: "<span style='font-family: times, Open Sans'>Project</style>"
+output: 
+  html_document:
+    css: CSSBackgrounds.css
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+<p style="font-family: times, Open Sans; font-size:14pt">
+**Earthquake Recurrence on the Banning Strand of the San Andreas fault: Collaborative Research with California State University, San Bernardino, and University of California, Los Angeles–status: completed (2017–2019)** 
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+This project offers detailed paleoseismic records of ground-deforming earthquakes on the Banning strand of the San Andreas Fault. We excavated a trench on the Banning strand at 18th Ave., in North Palm Springs, CA. Our findings suggest that the most recent paleoearthquake occurred between 730 and 950 cal BP. We identified at least five surface rupturing earthquakes since 3.3–2.5 ka and eight earthquakes since 7.1–5.7 ka. We calculate an average recurrence interval of 380–640 years based on four complete earthquake cycles. The Banning strand's recurrence interval is similar to the San Gorgonio Pass Fault zone (450–1850 years) but longer than that for the Mission Creek strand of the San Andreas Fault (~220 years).
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Collaborators*: [Sally F. McGill (PI)](https://fresca.calstate.edu/faculty/2067), Bryan Castillo (Graduate student), CSUSB; [Seulgi Moon (Co-I)](https://faculty.epss.ucla.edu/~sgmoon/), UCLA; [Katherine (Kate) Scharer (Collaborator)](https://www.usgs.gov/staff-profiles/katherine-kate-scharer?qt-staff_profile_science_products=0#qt-staff_profile_science_products), [Devin McPhillips (Collaborator)]( https://www.usgs.gov/staff-profiles/devin-mcphillips?qt-staff_profile_science_products=3#qt-staff_profile_science_products), USGS, Pasadena; [Nathan D. Brown (Collaborator)](https://nathandbrown.wixsite.com/home), UTA; [J. D. Yule (Collaborator)](https://academics.csun.edu/faculty/doug.yule), J. McNeil (Collaborator), CSUN.
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Funding Agency*: [USGS: National Earthquake Hazards Reduction Program (NEHRP)](https://www.nehrp.gov/), [NSF EAR](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503214#:~:text=CAREER%20:%20The%20Faculty%20Early%20Career%20Development%20(CAREER),in%20the%20mission%20of%20their%20department%20or%20organization.).
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Publications*: [Saha et al. in review](WMA.html), [Castillo et al. accepted](WMA.html).
+</p>
+
+<br>
+Insert images here ..
+
+
+
+
+
+<br>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Feel free to get in touch*
+</p> 
+<p style="font-family: times, Open Sans; font-size:14pt">
+[**Contact me**](Contactme.html)
+</p>

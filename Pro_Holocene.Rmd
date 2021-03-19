@@ -1,0 +1,43 @@
+---
+title: "<span style='font-family: times, Open Sans'>Project</style>"
+output: 
+  html_document:
+    css: CSSBackgrounds.css
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+<p style="font-family: times, Open Sans; font-size:14pt">
+**High-frequency Holocene glacier fluctuations in the Himalayan-Tibetan orogen–status: completed (2014–2018)** 
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+A comprehensive Holocene glacial chronostratigraphies in glaciated valleys spread throughout the Himalayan-Tibetan orogen, including the Himalaya, Tibet, Pamir, and Tian Shan, are developed using mapping and $^{10}$Be. We studied the timing and extent of glaciers in seven new and 77 previously studied glaciated valleys. Our findings suggest at least one Lateglacial and five regional Himalayan-Tibetan Holocene glacial stages. Modern glacier hypsometries are also assessed to help explain the intra-regional variations in glacier amplitudes during each regional glacier advance. A linear inverse glacier flow model is used to decipher the net changes in temperature (ΔT) between periods of reconstructed regional glacier advances in 66 glaciated valleys across different climatic regions throughout the orogen. We suggest that enhanced monsoonal precipitation during the Early Holocene, followed by relative cooling and increased aridity during the Mid- and Late Holocene, influenced glaciation. The sublimation-dominated cold-based glaciers in the northern regions of Himalayan-Tibetan orogen are more affected during these shifts in climate than the temperate glaciers in the south.
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Collaborators*: [Lewis A. Owen (PI)](https://meas.sciences.ncsu.edu/people/laowen2/), NCSU; [Elizabeth N. Orr (Collaborator)](https://www.elizabethorr.co.uk/), University of Bristol; [Mark W. Caffee (Collaborator)](http://www.physics.purdue.edu/people/faculty/mcaffee.php), PU.
+</p>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Funding Agency*: [Geological Society of America (GSA)](https://www.geosociety.org/GSA/Education_Careers/Grants_Scholarships/Research_Grants/GSA/grants/gradgrants.aspx), [PRIME laboratories, Purdue University](https://www.physics.purdue.edu/primelab/user-information/freeseedanalysis.php), [Graduate Student Governance Association (GSGA) at the University of Cincinnati](https://grad.uc.edu/student-life/awards/gsga-awards.html), NSF (awarded to MWC).
+</p>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Publications*: [Saha et al. in prep.](WMA.html), [Saha et al. 2020](https://doi.org/10.1016/j.mex.2020.100820), [Saha et al. 2019a](https://doi.org/10.1016/j.quascirev.2019.07.021), [Saha et al. 2019b](https://doi.org/10.1016/j.dib.2019.104412), [Saha et al. 2018](https://doi.org/10.1016/j.quascirev.2018.03.009).
+</p>
+<br>
+
+Insert images here ..
+
+
+
+
+<br>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Feel free to get in touch*
+</p> 
+<p style="font-family: times, Open Sans; font-size:14pt">
+[**Contact me**](Contactme.html)
+</p>
