@@ -2,7 +2,7 @@
 title: "<span style='font-family: times, Open Sans'>Geologist . Avid Outdoor Enthusiast . Paddler . Biker</style>"
 output: 
   html_document:
-    css: CSSBackgrounds8.css
+    css: CSSBackgrounds1.css
 ---
 
 <style>
@@ -16,33 +16,33 @@ I am an avid outdoor enthusiast. I get into geology because I am always excited 
 <br>
 <div style= "float:left;position: relative; right: 30px; top: -7px;">
 ```{r echo=FALSE, out.width="350px", fig.align='left'}
-knitr::include_graphics("https://i.imgur.com/zg5Av51h.jpg") 
+knitr::include_graphics("https://i.imgur.com/VhAXt5Tl.jpg") 
 ```
 </div>
 <div style= "float:left;position: relative; right: 30px; top: -7px;">
 ```{r echo=FALSE, out.width="350px", fig.align='left'}
-knitr::include_graphics("https://i.imgur.com/u7fV8S5h.jpg") 
+knitr::include_graphics("https://i.imgur.com/x5opxYll.jpg") 
 ```
 </div>
 <div style= "float:left;position: relative; right: 30px; top: -7px;">
 ```{r echo=FALSE, out.width="350px", fig.align='left'}
-knitr::include_graphics("https://i.imgur.com/ICmEvOSh.jpg") 
+knitr::include_graphics("https://i.imgur.com/dT0APV0l.jpg") 
 ```
 </div>
 <div style= "float:left;position: relative; right: 30px; top: -7px;">
 ```{r echo=FALSE, out.width="350px", fig.align='left'}
-knitr::include_graphics("https://i.imgur.com/tZyvTcJh.jpg") 
+knitr::include_graphics("https://i.imgur.com/mTWdl2Kl.jpg") 
 ```
 </div>
 
 <div style= "float:left;position: relative; right: 30px; top: -7px;">
 ```{r echo=FALSE, out.width="350px", fig.align='left'}
-knitr::include_graphics("https://i.imgur.com/02Ch8zjh.jpg") 
+knitr::include_graphics("https://i.imgur.com/BWgXNwel.jpg") 
 ```
 </div>
 <div style= "float:left;position: relative; right: 30px; top: -7px;">
 ```{r echo=FALSE, out.width="350px", fig.align='left'}
-knitr::include_graphics("https://i.imgur.com/SNMWoJBh.jpg") 
+knitr::include_graphics("https://i.imgur.com/v45YfWjl.jpg") 
 ```
 </div>
 <p style="font-family: times, Open Sans; font-size:14pt">
@@ -77,6 +77,22 @@ Biking is another fun activity that I like very much. I often prefer my road bik
 **News/Updates**
 </p>
 <br>
+<br>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+**3/21/2021**
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Got some fascinating data to develop a comprehensive age-depth model of the deep (~33.5 m) borehole of the ancient Lake Cahuilla. Preliminary data are made available at [SCEC interim report](https://files.scec.org/s3fs-public/reports/2020/20144_report.pdf?LhcDsJMZaU__5B8Q9mXdu6MjIQaBr5sI).*
+</p>
+<br>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+**3/19/2021**
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*Built my new website with a new domain name. Next is to finish writing the dynamic report for luminescence ages. Excited!*
+</p>
 <br>
 
 <p style="font-family: times, Open Sans; font-size:12.5pt">

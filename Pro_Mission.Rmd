@@ -2,7 +2,7 @@
 title: "<span style='font-family: times, Open Sans'>Project</style>"
 output: 
   html_document:
-    css: CSSBackgrounds.css
+    css: CSSBackgrounds13.css
 ---
 
 <style>
@@ -27,11 +27,21 @@ In this study, we collected 16 luminescence samples from the same four sets of a
 </p>
 
 <br>
-Insert images here ..
 
+<div style= "float:left;position: relative; right: 0px; top: -7px;">
+```{r echo=FALSE, out.width="500px", fig.align='left'}
 
+knitr::include_graphics("https://i.imgur.com/ztsapPHl.png") 
+
+```
+</div>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+***Figure*** *showing the probability density plots of the luminescence single-grain subpopulation ages from 11 samples and 41 published $^{10}$Be ages in a log scale. The top x-axis is showing ages in thousand years. For all the samples, p-IR IRSL subpopulation ages with more than 17 to 76% of grains, that is the higher proportion of grains, correspond well with the youngest cluster of $^{10}$Be ages.*
+</p>
 
 <br>
+
 <p style="font-family: times, Open Sans; font-size:12.5pt">
 *Feel free to get in touch*
 </p> 

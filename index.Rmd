@@ -103,7 +103,7 @@ Know more about my research [here](Research.html) and teaching [here](Teaching.h
 <br>
 
 <p style="font-family: times, Open Sans; font-size:14pt">
-[**Courses**](Teaching.html)
+**Courses**
 </p>
 +
 <p style="font-family: times, Open Sans; font-size:12.5pt">

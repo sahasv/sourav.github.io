@@ -2,7 +2,7 @@
 title: "<span style='font-family: times, Open Sans'>Project</style>"
 output: 
   html_document:
-    css: CSSBackgrounds.css
+    css: CSSBackgrounds7.css
 ---
 
 <style>
@@ -20,17 +20,11 @@ In this study, we are reviewing the status of Quaternary glaciations in the high
 *Collaborators*: [Lewis A. Owen](https://meas.sciences.ncsu.edu/people/laowen2/), NCSU; [Jason Dortch](https://www.researchgate.net/profile/Jason_Dortch), KGS.
 </p>
 <p style="font-family: times, Open Sans; font-size:12.5pt">
-*Publications*: [Owen et al. in prep.](WMA.html).
+*Publications*: [Owen et al. in prep.](WMA.html)
 </p>
 
 <br>
-Insert images here ..
 
-
-
-
-
-<br>
 <p style="font-family: times, Open Sans; font-size:12.5pt">
 *Feel free to get in touch*
 </p> 

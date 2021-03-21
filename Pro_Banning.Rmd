@@ -2,7 +2,7 @@
 title: "<span style='font-family: times, Open Sans'>Project</style>"
 output: 
   html_document:
-    css: CSSBackgrounds.css
+    css: CSSBackgrounds14.css
 ---
 
 <style>
@@ -27,13 +27,20 @@ This project offers detailed paleoseismic records of ground-deforming earthquake
 </p>
 
 <br>
-Insert images here ..
 
+<div style= "float:left;position: relative; right: 0px; top: -7px;">
+```{r echo=FALSE, out.width="680px", fig.align='left'}
 
+knitr::include_graphics("https://i.imgur.com/NGYr9oFl.jpg")
 
-
-
+```
+</div>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+***Figure.*** *(a) The generalized trench log of the east and west wall at the Banning trench site shows the luminescence and $^{14}$C samples' stratigraphic positions. Colored layers represent the marker horizons used for stratigraphic correlation between the trench walls and 'E' with a number denoting the earthquake horizon; a total of eight earthquake horizons were identified. The locations of luminescence samples are shown in black circles with corresponding sample IDs. (b) p-IR IRSL and $^{14}$C ages and 1-sigma error are plotted based on their stratigraphic depths. Vertical uncertainties result from correlation uncertainties between marker beds.*
+</p>
+(modified after Castillo et al. in press)
 <br>
+
 <p style="font-family: times, Open Sans; font-size:12.5pt">
 *Feel free to get in touch*
 </p> 

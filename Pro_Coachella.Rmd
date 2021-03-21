@@ -2,7 +2,7 @@
 title: "<span style='font-family: times, Open Sans'>Project</style>"
 output: 
   html_document:
-    css: CSSBackgrounds.css
+    css: CSSBackgrounds12.css
 ---
 
 <style>
@@ -27,10 +27,18 @@ This study provides context for the long-term relationship (up to ~7 ka or more)
 </p>
 
 <br>
-Insert images here ..
 
+<div style= "float:left;position: relative; right: 0px; top: -7px;">
+```{r echo=FALSE, out.width="500px", fig.align='left'}
 
+knitr::include_graphics("https://i.imgur.com/isTWduyl.jpg") 
 
+```
+</div>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+***Figure.*** *Coachella (shoreline) core stratigraphic log (CSD-01) showing the alternative subaerial (sandy/silty) and lacustrine (clayey/silty) units. As many as 20 lacustrine units are identified of the ~33.5-m core. Thirteen luminescence samples (brown circles) are dated, and 30 $^{14}$C samples (yellow circles) are collected to constrain the lake Cahuilla's long-term lake filling and desiccation cycles. Published $^{14}$C and uncorrected luminesce ages are provided for reference. The upper ~6-m of the log was adapted from Philibosian et al. (2011). Preliminary findings are made available in [SCEC interim report](https://files.scec.org/s3fs-public/reports/2020/20144_report.pdf?LhcDsJMZaU__5B8Q9mXdu6MjIQaBr5sI).*
+</p>
 
 <br>
 <p style="font-family: times, Open Sans; font-size:12.5pt">

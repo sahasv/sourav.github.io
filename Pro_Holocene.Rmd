@@ -2,7 +2,7 @@
 title: "<span style='font-family: times, Open Sans'>Project</style>"
 output: 
   html_document:
-    css: CSSBackgrounds.css
+    css: CSSBackgrounds5.css
 ---
 
 <style>
@@ -17,7 +17,7 @@ text-align: justify}
 A comprehensive Holocene glacial chronostratigraphies in glaciated valleys spread throughout the Himalayan-Tibetan orogen, including the Himalaya, Tibet, Pamir, and Tian Shan, are developed using mapping and $^{10}$Be. We studied the timing and extent of glaciers in seven new and 77 previously studied glaciated valleys. Our findings suggest at least one Lateglacial and five regional Himalayan-Tibetan Holocene glacial stages. Modern glacier hypsometries are also assessed to help explain the intra-regional variations in glacier amplitudes during each regional glacier advance. A linear inverse glacier flow model is used to decipher the net changes in temperature (ΔT) between periods of reconstructed regional glacier advances in 66 glaciated valleys across different climatic regions throughout the orogen. We suggest that enhanced monsoonal precipitation during the Early Holocene, followed by relative cooling and increased aridity during the Mid- and Late Holocene, influenced glaciation. The sublimation-dominated cold-based glaciers in the northern regions of Himalayan-Tibetan orogen are more affected during these shifts in climate than the temperate glaciers in the south.
 </p>
 <p style="font-family: times, Open Sans; font-size:12.5pt">
-*Collaborators*: [Lewis A. Owen (PI)](https://meas.sciences.ncsu.edu/people/laowen2/), NCSU; [Elizabeth N. Orr (Collaborator)](https://www.elizabethorr.co.uk/), University of Bristol; [Mark W. Caffee (Collaborator)](http://www.physics.purdue.edu/people/faculty/mcaffee.php), PU.
+*Collaborators*: [Lewis A. Owen](https://meas.sciences.ncsu.edu/people/laowen2/), NCSU; [Elizabeth N. Orr (Collaborator)](https://www.elizabethorr.co.uk/), University of Bristol; [Mark W. Caffee (Collaborator)](http://www.physics.purdue.edu/people/faculty/mcaffee.php), PU.
 </p>
 
 <p style="font-family: times, Open Sans; font-size:12.5pt">
@@ -25,14 +25,21 @@ A comprehensive Holocene glacial chronostratigraphies in glaciated valleys sprea
 </p>
 
 <p style="font-family: times, Open Sans; font-size:12.5pt">
-*Publications*: [Saha et al. in prep.](WMA.html), [Saha et al. 2020](https://doi.org/10.1016/j.mex.2020.100820), [Saha et al. 2019a](https://doi.org/10.1016/j.quascirev.2019.07.021), [Saha et al. 2019b](https://doi.org/10.1016/j.dib.2019.104412), [Saha et al. 2018](https://doi.org/10.1016/j.quascirev.2018.03.009).
+*Publications*: [Saha et al. in prep.](WMA.html), [Saha et al. 2020](files/Saha_et_al.2020.pdf), [Saha et al. 2019a](files/Saha_et_al.2019.pdf), [Saha et al. 2019b](files/Saha_et_al.2019a.pdf), [Saha et al. 2018](files/Saha_et_al.2018.pdf).
 </p>
 <br>
 
-Insert images here ..
+<div style= "float:left;position: relative; right: 0px; top: -7px;">
+```{r echo=FALSE, out.width="600px", fig.align='left'}
 
+knitr::include_graphics("https://i.imgur.com/nzLl20rl.png") 
 
+```
+</div>
 
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+***Figure.*** *Timing and amplitude of Lateglacial and Holocene regional glacier advances across the Himalayan-Tibetan orogen compared with continuous proxy records. Five climatic zones (Climate Groups 1–3) are used for inter-regional comparisons. Local glacial stages (mean $^{10}$Be ages in x-axis) for each region are combined and compared against the corresponding ΔELA (y-axis). Uncertainty bars are ±1s. Regional Himalayan-Tibetan Holocene stages (HTHS) for the whole orogen (this study) are compared against Himalayan Holocene stages (HHs) reconstructed for the NW Himalaya and Tibet in Saha et al. (2018). A simplified summary of major Lateglacial-Holocene climatic events is shown by shaded blue and red bars, representing significant dry-wet and cold-warm periods, respectively. These periods are reconstructed after Demske et al. (2009), Wünnemann et al. (2010), Berkelhammer et al. (2012), Rawat et al. (2015a, 2015b), Srivastava et al. (2017). The color scheme for the red and blue bars only represents the time range and not the magnitude of the change. The reconstructed orbital trend at 65°N latitude (after Berger, 1978), oxygen isotopes from speleothems (Sanbao cave, China after Dong et al., 2010), and Guliya ice cores (Guliya ice core, Tibet after Thompson et al., 1997) are shown at the bottom for climatic interpretation.*
+</p>
 
 <br>
 <p style="font-family: times, Open Sans; font-size:12.5pt">
