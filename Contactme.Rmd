@@ -8,6 +8,14 @@ output:
 <br>
 <br>
 
+<div style= "float:right;position: relative; right: 30px; top: -7px;">
+```{r echo=FALSE, out.width="150px", fig.align='left'}
+
+knitr::include_graphics("https://i.imgur.com/HGtISokm.png") 
+
+```
+</div>
+
 <p style="font-family: times, Open Sans; font-size:12.5pt">
 **Sourav Saha, Ph.D.**
 </p>

@@ -127,6 +127,14 @@ Know more about my research [here](Research.html) and teaching [here](Teaching.h
 </p>
 <br>
 
+<div style= "float:right;position: relative; right: 30px; top: -7px;">
+```{r echo=FALSE, out.width="100px", fig.align='left'}
+
+knitr::include_graphics("https://i.imgur.com/HGtISokm.png") 
+
+```
+</div>
+
 <p style="font-family: times, Open Sans; font-size:16pt">
 **“Alone we can do so little; together we can do so much”***― Helen Keller*
 </p>
