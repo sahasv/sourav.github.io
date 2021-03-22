@@ -26,7 +26,7 @@ In this study, we mapped and studied the streamlined subglacial landforms, inclu
 
 <br>
 
-<div style= "float:left;position: relative; right: 0px; top: -7px;">
+<div style= "float:left;position: relative; right: 10px; top: -7px;">
 ```{r echo=FALSE, out.width="500px", fig.align='left'}
 
 knitr::include_graphics("https://i.imgur.com/utyttJXl.jpg") 

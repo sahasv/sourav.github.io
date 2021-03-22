@@ -28,7 +28,7 @@ This study provides context for the long-term relationship (up to ~7 ka or more)
 
 <br>
 
-<div style= "float:left;position: relative; right: 0px; top: -7px;">
+<div style= "float:left;position: relative; right: 10px; top: -7px;">
 ```{r echo=FALSE, out.width="500px", fig.align='left'}
 
 knitr::include_graphics("https://i.imgur.com/isTWduyl.jpg") 

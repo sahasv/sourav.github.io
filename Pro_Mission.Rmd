@@ -28,7 +28,7 @@ In this study, we collected 16 luminescence samples from the same four sets of a
 
 <br>
 
-<div style= "float:left;position: relative; right: 0px; top: -7px;">
+<div style= "float:left;position: relative; right: 10px; top: -7px;">
 ```{r echo=FALSE, out.width="500px", fig.align='left'}
 
 knitr::include_graphics("https://i.imgur.com/ztsapPHl.png") 

@@ -29,7 +29,7 @@ A comprehensive Holocene glacial chronostratigraphies in glaciated valleys sprea
 </p>
 <br>
 
-<div style= "float:left;position: relative; right: 0px; top: -7px;">
+<div style= "float:left;position: relative; right: 10px; top: -7px;">
 ```{r echo=FALSE, out.width="600px", fig.align='left'}
 
 knitr::include_graphics("https://i.imgur.com/nzLl20rl.png") 
