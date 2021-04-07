@@ -17,7 +17,7 @@ knitr::include_graphics("https://i.imgur.com/HGtISokm.png")
 </div>
 
 <p style="font-family: times, Open Sans; font-size:12.5pt">
-**Sourav Saha, Ph.D.**
+**Sourav Saha, Ph.D.** *(he/him/his)*
 </p>
 <!--<p style="font-family: times, Open Sans; font-size:12.5pt">
 *Earth, Planetary, and Space Sciences*
